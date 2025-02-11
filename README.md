@@ -42,7 +42,3 @@ print(horizontal_analysis.head())
 
 This project is for educational and analytical purposes. No official affiliation with PepsiCo or The Coca-Cola Company.
 
-## Author
-
-Alexis Solis Ruiz
-
